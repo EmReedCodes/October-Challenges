@@ -11,4 +11,3 @@ function replaceLetters(str) {
     return newStr
   }
   
-  replaceLetters("dfksspaceSsdfjd")
