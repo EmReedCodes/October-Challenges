@@ -1,7 +1,14 @@
-function reverseWithWSpace(str) {
-    let reversed = []
-    for (let i = str.length; i >= 0; i--){
-      reversed.push(str[i])
+function replaceLetters(str) {
+    const key = ['S', 'p', 'a', 'c', 'e']
+    const newStr = [] 
+    for (let i = 0; i < str.length; i++){
+      if (key.includes(str[i])) {
+        newStr.push(' ')
+      } else {
+        newStr.push(str[i])
+      }
     }
-    return reversed.join('')
+    return newStr
   }
+  
+  replaceLetters("dfksspaceSsdfjd")
