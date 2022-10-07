@@ -7,6 +7,7 @@
 * [Challenge 2](https://blog.barbaralaw.me/huntober-2022-day-2)
 * [Challenge 3](https://blog.barbaralaw.me/huntober-2022-day-3)
 * [Challenge 4](https://blog.barbaralaw.me/huntober-2022-day-4)
+* [Challenge 5](https://blog.barbaralaw.me/huntober-2022-day-5)
 
 ### Acknowlegements
 Thank you to the wonderful Barbara Law for putting this together. Here is her [blog](https://blog.barbaralaw.me) and 
